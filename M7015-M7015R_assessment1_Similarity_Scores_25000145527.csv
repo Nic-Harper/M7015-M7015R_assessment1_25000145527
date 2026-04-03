@@ -1,0 +1,533 @@
+word,count,prediction,similarity,document
+model,119,related,0.9993,Realising the benefits of 5G
+based,83,related,0.9993,Realising the benefits of 5G
+approach,64,related,0.9993,Uk industrial strategy policy paper 2026
+reform,57,related,0.9993,Uk industrial strategy policy paper 2026
+transparency,36,related,0.9993,Web3 App Comprehensive Research Book
+implementation,36,related,0.9993,Realising the benefits of 5G
+governance,34,related,0.9993,Web3 App Comprehensive Research Book
+protocol,34,related,0.9993,Web3 App Comprehensive Research Book
+stakeholder,28,related,0.9993,Realising the benefits of 5G
+empirical,19,related,0.9993,Realising the benefits of 5G
+concept,17,related,0.9993,Web3 App Comprehensive Research Book
+foundational,16,related,0.9993,Web3 App Comprehensive Research Book
+paradigm,14,related,0.9993,Web3 App Comprehensive Research Book
+econometrics,180,related,0.9976,Realising the benefits of 5G
+data,104,related,0.9976,Uk industrial strategy policy paper 2026
+critical,59,related,0.9967,Uk industrial strategy policy paper 2026
+environmental,41,related,0.9967,Realising the benefits of 5G
+assessment,38,related,0.9967,Realising the benefits of 5G
+participant,15,related,0.9967,Web3 App Comprehensive Research Book
+education,15,related,0.9967,Web3 App Comprehensive Research Book
+audit,14,related,0.9967,Web3 App Comprehensive Research Book
+primary,13,related,0.9967,Web3 App Comprehensive Research Book
+consensus,43,related,0.9966,Web3 App Comprehensive Research Book
+malicious,12,related,0.9965,Web3 App Comprehensive Research Book
+priority,53,related,0.9963,Uk industrial strategy policy paper 2026
+fundamentally,17,related,0.9963,Web3 App Comprehensive Research Book
+browser,19,related,0.996,Web3 App Comprehensive Research Book
+continuous,15,related,0.9957,Web3 App Comprehensive Research Book
+engine,13,related,0.9955,Web3 App Comprehensive Research Book
+deployment,124,related,0.9946,Realising the benefits of 5G
+logistics,40,related,0.9946,Realising the benefits of 5G
+intervention,44,related,0.9941,Uk industrial strategy policy paper 2026
+assumption,70,related,0.9933,Realising the benefits of 5G
+purpose,26,related,0.9933,Realising the benefits of 5G
+principle,23,related,0.9933,Web3 App Comprehensive Research Book
+authority,19,related,0.9933,Web3 App Comprehensive Research Book
+study,147,related,0.9924,Realising the benefits of 5G
+research,62,related,0.9924,Uk industrial strategy policy paper 2026
+speed,45,related,0.9924,Uk industrial strategy policy paper 2026
+analysis,44,related,0.9924,Realising the benefits of 5G
+capacity,36,related,0.9924,Realising the benefits of 5G
+power,33,related,0.9924,Web3 App Comprehensive Research Book
+improvement,30,related,0.9924,Realising the benefits of 5G
+efficiency,26,related,0.9924,Realising the benefits of 5G
+partnership,91,related,0.9921,Uk industrial strategy policy paper 2026
+autonomous,13,related,0.9921,Web3 App Comprehensive Research Book
+impact,337,related,0.992,Realising the benefits of 5G
+verifiable,26,related,0.9917,Web3 App Comprehensive Research Book
+relevant,21,related,0.9917,Realising the benefits of 5G
+industrial,227,related,0.9912,Uk industrial strategy policy paper 2026
+technology,170,related,0.9912,Uk industrial strategy policy paper 2026
+infrastructure,84,related,0.9912,Uk industrial strategy policy paper 2026
+cluster,77,related,0.9912,Uk industrial strategy policy paper 2026
+system,70,related,0.9912,Uk industrial strategy policy paper 2026
+control,67,related,0.9912,Web3 App Comprehensive Research Book
+wireless,42,related,0.9912,Realising the benefits of 5G
+distribution,40,related,0.9912,Realising the benefits of 5G
+remote,32,related,0.9912,Realising the benefits of 5G
+equipment,28,related,0.9912,Realising the benefits of 5G
+environment,25,related,0.9912,Realising the benefits of 5G
+distributed,24,related,0.9912,Web3 App Comprehensive Research Book
+multiple,22,related,0.9912,Realising the benefits of 5G
+storage,21,related,0.9912,Web3 App Comprehensive Research Book
+architecture,21,related,0.9912,Realising the benefits of 5G
+hardware,19,related,0.9912,Web3 App Comprehensive Research Book
+innovation,182,related,0.9894,Uk industrial strategy policy paper 2026
+resilience,43,related,0.9894,Uk industrial strategy policy paper 2026
+business,416,related,0.989,Uk industrial strategy policy paper 2026
+investment,303,related,0.989,Uk industrial strategy policy paper 2026
+sector,278,related,0.989,Uk industrial strategy policy paper 2026
+asset,113,related,0.989,Web3 App Comprehensive Research Book
+key,85,related,0.989,Realising the benefits of 5G
+public,81,related,0.989,Uk industrial strategy policy paper 2026
+capital,77,related,0.989,Uk industrial strategy policy paper 2026
+strategic,73,related,0.989,Uk industrial strategy policy paper 2026
+international,72,related,0.989,Uk industrial strategy policy paper 2026
+financial,67,related,0.989,Uk industrial strategy policy paper 2026
+finance,64,related,0.989,Uk industrial strategy policy paper 2026
+private,58,related,0.989,Uk industrial strategy policy paper 2026
+firm,51,related,0.989,Uk industrial strategy policy paper 2026
+investor,48,related,0.989,Uk industrial strategy policy paper 2026
+regulatory,48,related,0.989,Uk industrial strategy policy paper 2026
+future,46,related,0.989,Uk industrial strategy policy paper 2026
+current,23,related,0.989,Realising the benefits of 5G
+entity,19,related,0.989,Web3 App Comprehensive Research Book
+organization,13,related,0.989,Web3 App Comprehensive Research Book
+clean,70,related,0.9881,Uk industrial strategy policy paper 2026
+transport,49,related,0.9881,Realising the benefits of 5G
+ease,44,related,0.9881,Uk industrial strategy policy paper 2026
+utility,38,related,0.9881,Realising the benefits of 5G
+generation,28,related,0.9881,Realising the benefits of 5G
+network,391,related,0.9874,Realising the benefits of 5G
+connectivity,95,related,0.9874,Realising the benefits of 5G
+access,65,related,0.9874,Uk industrial strategy policy paper 2026
+latency,45,related,0.9874,Realising the benefits of 5G
+connection,33,related,0.9874,Realising the benefits of 5G
+application,134,related,0.987,Realising the benefits of 5G
+operator,33,related,0.987,Realising the benefits of 5G
+process,18,related,0.987,Realising the benefits of 5G
+operation,15,related,0.987,Web3 App Comprehensive Research Book
+verification,14,related,0.987,Web3 App Comprehensive Research Book
+interface,13,related,0.987,Web3 App Comprehensive Research Book
+component,12,related,0.987,Web3 App Comprehensive Research Book
+transfer,12,related,0.987,Web3 App Comprehensive Research Book
+cryptography,26,related,0.9859,Web3 App Comprehensive Research Book
+service,123,related,0.9848,Uk industrial strategy policy paper 2026
+availability,41,related,0.9848,Realising the benefits of 5G
+standard,28,related,0.9841,Realising the benefits of 5G
+creative,59,related,0.9835,Uk industrial strategy policy paper 2026
+integrity,16,related,0.9833,Web3 App Comprehensive Research Book
+interaction,41,related,0.9823,Web3 App Comprehensive Research Book
+communication,34,related,0.9823,Realising the benefits of 5G
+evidence,89,related,0.9812,Realising the benefits of 5G
+proof,42,related,0.9812,Web3 App Comprehensive Research Book
+phrase,39,related,0.9812,Web3 App Comprehensive Research Book
+example,38,related,0.9812,Realising the benefits of 5G
+understanding,38,related,0.9812,Realising the benefits of 5G
+general,32,related,0.9812,Realising the benefits of 5G
+fundamental,21,related,0.9812,Web3 App Comprehensive Research Book
+point,18,related,0.9812,Web3 App Comprehensive Research Book
+form,15,related,0.9812,Web3 App Comprehensive Research Book
+clear,14,related,0.9812,Web3 App Comprehensive Research Book
+password,18,related,0.9805,Web3 App Comprehensive Research Book
+readiness,23,related,0.9793,Realising the benefits of 5G
+scenario,214,related,0.9769,Realising the benefits of 5G
+saved,26,related,0.9768,Realising the benefits of 5G
+developer,19,related,0.9744,Web3 App Comprehensive Research Book
+skill,141,related,0.9739,Uk industrial strategy policy paper 2026
+management,21,related,0.9734,Web3 App Comprehensive Research Book
+global,110,related,0.9729,Uk industrial strategy policy paper 2026
+report,65,related,0.9728,Realising the benefits of 5G
+review,47,related,0.9728,Uk industrial strategy policy paper 2026
+survey,29,related,0.9728,Realising the benefits of 5G
+information,28,related,0.9728,Web3 App Comprehensive Research Book
+vulnerability,44,related,0.9716,Web3 App Comprehensive Research Book
+exploit,36,related,0.9716,Web3 App Comprehensive Research Book
+therefore,33,related,0.9716,Realising the benefits of 5G
+player,27,related,0.9709,Web3 App Comprehensive Research Book
+strategy,229,related,0.9702,Uk industrial strategy policy paper 2026
+productivity,54,related,0.97,Uk industrial strategy policy paper 2026
+respondent,44,related,0.9697,Realising the benefits of 5G
+immutability,13,related,0.9694,Web3 App Comprehensive Research Book
+potentially,28,related,0.9682,Web3 App Comprehensive Research Book
+security,79,related,0.9676,Uk industrial strategy policy paper 2026
+transparent,29,related,0.967,Web3 App Comprehensive Research Book
+robust,22,related,0.967,Web3 App Comprehensive Research Book
+complexity,19,related,0.967,Web3 App Comprehensive Research Book
+dynamic,13,related,0.967,Web3 App Comprehensive Research Book
+web,331,related,0.9666,Web3 App Comprehensive Research Book
+concern,41,related,0.9659,Realising the benefits of 5G
+relative,45,related,0.9613,Realising the benefits of 5G
+underlying,28,related,0.9613,Web3 App Comprehensive Research Book
+rely,21,related,0.9607,Realising the benefits of 5G
+code,38,related,0.9559,Web3 App Comprehensive Research Book
+trial,35,related,0.9552,Realising the benefits of 5G
+gaming,22,related,0.9546,Web3 App Comprehensive Research Book
+virtual,17,related,0.9546,Realising the benefits of 5G
+error,12,related,0.9538,Web3 App Comprehensive Research Book
+used,73,related,0.9529,Realising the benefits of 5G
+traditional,66,related,0.9529,Web3 App Comprehensive Research Book
+practice,23,related,0.9529,Web3 App Comprehensive Research Book
+various,20,related,0.9529,Realising the benefits of 5G
+potential,72,related,0.9525,Uk industrial strategy policy paper 2026
+may,70,related,0.9525,Realising the benefits of 5G
+risk,19,related,0.9525,Realising the benefits of 5G
+associated,18,related,0.9525,Realising the benefits of 5G
+trade,83,related,0.9517,Uk industrial strategy policy paper 2026
+exchange,16,related,0.9517,Web3 App Comprehensive Research Book
+uncertainty,29,related,0.9501,Realising the benefits of 5G
+liquidity,21,related,0.9501,Web3 App Comprehensive Research Book
+share,33,related,0.9489,Realising the benefits of 5G
+stake,21,related,0.9489,Web3 App Comprehensive Research Book
+group,288,related,0.9482,Realising the benefits of 5G
+enable,49,related,0.9482,Realising the benefits of 5G
+partner,46,related,0.9482,Uk industrial strategy policy paper 2026
+trust,37,related,0.9482,Web3 App Comprehensive Research Book
+engagement,23,related,0.9482,Web3 App Comprehensive Research Book
+monetization,15,related,0.9482,Web3 App Comprehensive Research Book
+leverage,15,related,0.9482,Web3 App Comprehensive Research Book
+advantage,11,related,0.9482,Web3 App Comprehensive Research Book
+censorship,22,related,0.9478,Web3 App Comprehensive Research Book
+legal,12,related,0.9476,Web3 App Comprehensive Research Book
+full,27,related,0.9442,Realising the benefits of 5G
+quality,22,related,0.9442,Realising the benefits of 5G
+wide,20,related,0.9442,Realising the benefits of 5G
+best,18,related,0.9442,Web3 App Comprehensive Research Book
+factory,18,related,0.9442,Realising the benefits of 5G
+design,17,related,0.9442,Web3 App Comprehensive Research Book
+use,339,related,0.9439,Realising the benefits of 5G
+alternative,19,related,0.9439,Realising the benefits of 5G
+active,13,related,0.9439,Web3 App Comprehensive Research Book
+market,108,related,0.9436,Uk industrial strategy policy paper 2026
+export,64,related,0.9436,Uk industrial strategy policy paper 2026
+decision,11,related,0.9433,Web3 App Comprehensive Research Book
+calculation,30,related,0.9408,Realising the benefits of 5G
+evolution,17,related,0.9406,Realising the benefits of 5G
+decentralization,58,related,0.9405,Web3 App Comprehensive Research Book
+result,106,related,0.9376,Realising the benefits of 5G
+found,46,related,0.9376,Realising the benefits of 5G
+finding,36,related,0.9376,Realising the benefits of 5G
+search,29,related,0.9376,Web3 App Comprehensive Research Book
+accessible,13,related,0.9372,Web3 App Comprehensive Research Book
+smart,73,related,0.936,Realising the benefits of 5G
+term,60,related,0.9319,Realising the benefits of 5G
+requirement,22,related,0.9319,Realising the benefits of 5G
+growth,249,related,0.9315,Uk industrial strategy policy paper 2026
+development,61,related,0.9315,Uk industrial strategy policy paper 2026
+privacy,51,related,0.9315,Web3 App Comprehensive Research Book
+estimate,83,related,0.9308,Realising the benefits of 5G
+forecast,19,related,0.9308,Realising the benefits of 5G
+benefit,59,related,0.9266,Uk industrial strategy policy paper 2026
+crucial,31,related,0.9266,Web3 App Comprehensive Research Book
+important,30,related,0.9266,Realising the benefits of 5G
+furthermore,13,related,0.9266,Web3 App Comprehensive Research Book
+across,174,related,0.9264,Uk industrial strategy policy paper 2026
+around,39,related,0.9264,Realising the benefits of 5G
+literature,38,related,0.9262,Realising the benefits of 5G
+chapter,19,related,0.9262,Realising the benefits of 5G
+ecosystem,26,related,0.9238,Realising the benefits of 5G
+specific,50,related,0.9213,Realising the benefits of 5G
+energy,142,related,0.9189,Uk industrial strategy policy paper 2026
+inherent,20,related,0.9129,Web3 App Comprehensive Research Book
+urban,91,related,0.9126,Realising the benefits of 5G
+country,76,related,0.9126,Realising the benefits of 5G
+social,64,related,0.9126,Realising the benefits of 5G
+fostering,18,related,0.911,Web3 App Comprehensive Research Book
+foster,12,related,0.911,Web3 App Comprehensive Research Book
+user,105,related,0.9003,Realising the benefits of 5G
+machine,28,related,0.9003,Realising the benefits of 5G
+via,20,related,0.9003,Realising the benefits of 5G
+automatically,17,related,0.9003,Web3 App Comprehensive Research Book
+tool,12,related,0.9003,Web3 App Comprehensive Research Book
+might,100,related,0.8982,Realising the benefits of 5G
+time,98,related,0.8982,Realising the benefits of 5G
+without,63,related,0.8982,Web3 App Comprehensive Research Book
+one,46,related,0.8982,Realising the benefits of 5G
+type,39,related,0.8982,Realising the benefits of 5G
+game,31,related,0.8982,Web3 App Comprehensive Research Book
+see,28,related,0.8982,Realising the benefits of 5G
+made,23,related,0.8982,Realising the benefits of 5G
+way,22,related,0.8982,Realising the benefits of 5G
+project,62,related,0.8979,Uk industrial strategy policy paper 2026
+build,60,related,0.8979,Uk industrial strategy policy paper 2026
+help,48,related,0.8979,Uk industrial strategy policy paper 2026
+community,43,related,0.8979,Web3 App Comprehensive Research Book
+present,24,related,0.8979,Realising the benefits of 5G
+together,22,related,0.8979,Realising the benefits of 5G
+aim,18,related,0.8979,Web3 App Comprehensive Research Book
+role,18,related,0.8979,Realising the benefits of 5G
+participation,15,related,0.8979,Web3 App Comprehensive Research Book
+manage,14,related,0.8979,Web3 App Comprehensive Research Book
+highlight,14,related,0.8979,Web3 App Comprehensive Research Book
+permission,14,related,0.8978,Web3 App Comprehensive Research Book
+TRUE,16,related,0.8977,Web3 App Comprehensive Research Book
+brave,13,related,0.8977,Web3 App Comprehensive Research Book
+curve,25,related,0.8958,Realising the benefits of 5G
+lack,72,related,0.8944,Realising the benefits of 5G
+due,44,related,0.8915,Realising the benefits of 5G
+early,42,related,0.8915,Realising the benefits of 5G
+two,36,related,0.8915,Realising the benefits of 5G
+several,28,related,0.8915,Realising the benefits of 5G
+three,23,related,0.8915,Realising the benefits of 5G
+identity,41,related,0.8869,Web3 App Comprehensive Research Book
+vehicle,34,related,0.8869,Realising the benefits of 5G
+location,20,related,0.8822,Realising the benefits of 5G
+city,86,related,0.8791,Uk industrial strategy policy paper 2026
+party,15,related,0.8791,Web3 App Comprehensive Research Book
+seed,21,related,0.8789,Web3 App Comprehensive Research Book
+cryptographic,43,related,0.8753,Web3 App Comprehensive Research Book
+release,37,related,0.8742,Realising the benefits of 5G
+policy,46,related,0.8528,Uk industrial strategy policy paper 2026
+government,241,related,0.8502,Uk industrial strategy policy paper 2026
+ownership,77,related,0.8496,Web3 App Comprehensive Research Book
+consumer,345,related,0.8435,Realising the benefits of 5G
+new,244,related,0.8435,Uk industrial strategy policy paper 2026
+department,86,related,0.8435,Uk industrial strategy policy paper 2026
+chain,58,related,0.8435,Uk industrial strategy policy paper 2026
+company,49,related,0.8435,Uk industrial strategy policy paper 2026
+retail,35,related,0.8435,Realising the benefits of 5G
+intermediary,26,related,0.8375,Web3 App Comprehensive Research Book
+ensure,76,related,0.8374,Uk industrial strategy policy paper 2026
+provide,51,related,0.8374,Uk industrial strategy policy paper 2026
+secure,47,related,0.8374,Web3 App Comprehensive Research Book
+offer,30,related,0.8374,Realising the benefits of 5G
+fully,22,related,0.8374,Realising the benefits of 5G
+would,44,related,0.8343,Realising the benefits of 5G
+likely,41,related,0.8343,Realising the benefits of 5G
+already,26,related,0.8343,Realising the benefits of 5G
+better,22,related,0.8343,Realising the benefits of 5G
+even,21,related,0.8343,Web3 App Comprehensive Research Book
+still,21,related,0.8343,Realising the benefits of 5G
+mean,19,related,0.8343,Realising the benefits of 5G
+rather,14,related,0.8343,Web3 App Comprehensive Research Book
+guide,18,related,0.8333,Web3 App Comprehensive Research Book
+economy,122,related,0.8246,Uk industrial strategy policy paper 2026
+economic,119,related,0.8246,Uk industrial strategy policy paper 2026
+transaction,140,related,0.8161,Web3 App Comprehensive Research Book
+fee,29,related,0.8161,Web3 App Comprehensive Research Book
+core,41,related,0.8153,Realising the benefits of 5G
+similar,21,related,0.8103,Realising the benefits of 5G
+recovery,12,related,0.8065,Web3 App Comprehensive Research Book
+rate,33,related,0.8059,Realising the benefits of 5G
+figure,86,related,0.8007,Realising the benefits of 5G
+total,48,related,0.8007,Realising the benefits of 5G
+per,32,related,0.8007,Realising the benefits of 5G
+single,24,related,0.8007,Web3 App Comprehensive Research Book
+currently,24,related,0.8007,Realising the benefits of 5G
+agreement,15,related,0.8006,Web3 App Comprehensive Research Book
+mobile,131,related,0.8004,Realising the benefits of 5G
+platform,89,related,0.8004,Web3 App Comprehensive Research Book
+enterprise,63,related,0.8004,Realising the benefits of 5G
+cloud,50,related,0.8004,Realising the benefits of 5G
+technical,19,related,0.8004,Web3 App Comprehensive Research Book
+product,17,related,0.8004,Realising the benefits of 5G
+leading,16,related,0.8004,Web3 App Comprehensive Research Book
+greater,35,related,0.7951,Realising the benefits of 5G
+higher,35,related,0.7951,Realising the benefits of 5G
+science,71,related,0.7917,Uk industrial strategy policy paper 2026
+supply,62,related,0.7913,Uk industrial strategy policy paper 2026
+transformative,17,related,0.7837,Realising the benefits of 5G
+yield,22,related,0.7826,Web3 App Comprehensive Research Book
+increase,67,related,0.7806,Uk industrial strategy policy paper 2026
+volume,63,related,0.7806,Web3 App Comprehensive Research Book
+demand,57,related,0.7806,Realising the benefits of 5G
+change,34,related,0.7806,Realising the benefits of 5G
+shift,33,related,0.7806,Web3 App Comprehensive Research Book
+solution,82,related,0.7792,Realising the benefits of 5G
+household,27,related,0.7761,Realising the benefits of 5G
+income,12,related,0.7761,Web3 App Comprehensive Research Book
+national,134,related,0.7554,Uk industrial strategy policy paper 2026
+ledger,25,related,0.7482,Web3 App Comprehensive Research Book
+loss,29,related,0.7437,Web3 App Comprehensive Research Book
+lead,19,related,0.7437,Realising the benefits of 5G
+scam,17,related,0.7416,Web3 App Comprehensive Research Book
+advanced,54,related,0.7315,Uk industrial strategy policy paper 2026
+reduction,20,related,0.7288,Realising the benefits of 5G
+reducing,17,related,0.7288,Web3 App Comprehensive Research Book
+vendor,23,related,0.7221,Realising the benefits of 5G
+interact,14,related,0.7221,Web3 App Comprehensive Research Book
+experience,37,related,0.7068,Realising the benefits of 5G
+hospitality,27,related,0.7068,Realising the benefits of 5G
+driven,24,related,0.7017,Realising the benefits of 5G
+industry,233,related,0.7012,Uk industrial strategy policy paper 2026
+affect,20,related,0.7001,Realising the benefits of 5G
+physical,18,related,0.7001,Web3 App Comprehensive Research Book
+feature,64,related,0.6977,Realising the benefits of 5G
+functionality,46,related,0.6977,Realising the benefits of 5G
+capability,45,related,0.6977,Uk industrial strategy policy paper 2026
+enhanced,23,related,0.6977,Realising the benefits of 5G
+providing,18,related,0.6977,Web3 App Comprehensive Research Book
+frontier,59,related,0.6949,Uk industrial strategy policy paper 2026
+plan,102,related,0.6906,Uk industrial strategy policy paper 2026
+available,86,related,0.6906,Realising the benefits of 5G
+cost,74,related,0.6906,Realising the benefits of 5G
+uplift,24,related,0.6868,Realising the benefits of 5G
+contract,117,related,0.685,Web3 App Comprehensive Research Book
+job,92,related,0.685,Uk industrial strategy policy paper 2026
+assumed,18,related,0.6679,Realising the benefits of 5G
+prominent,12,related,0.6679,Web3 App Comprehensive Research Book
+known,12,related,0.6679,Web3 App Comprehensive Research Book
+earn,37,related,0.6634,Web3 App Comprehensive Research Book
+earning,25,related,0.6634,Web3 App Comprehensive Research Book
+significantly,29,related,0.6585,Web3 App Comprehensive Research Book
+significant,21,related,0.6585,Realising the benefits of 5G
+reduced,20,related,0.6585,Realising the benefits of 5G
+need,69,related,0.6577,Uk industrial strategy policy paper 2026
+directly,44,related,0.6577,Web3 App Comprehensive Research Book
+address,26,related,0.6577,Realising the benefits of 5G
+must,16,related,0.6577,Web3 App Comprehensive Research Book
+attention,13,related,0.6577,Web3 App Comprehensive Research Book
+population,30,related,0.6464,Realising the benefits of 5G
+token,107,related,0.6365,Web3 App Comprehensive Research Book
+reward,36,related,0.6365,Web3 App Comprehensive Research Book
+incentive,17,related,0.6365,Web3 App Comprehensive Research Book
+within,70,related,0.6309,Realising the benefits of 5G
+level,40,related,0.6309,Realising the benefits of 5G
+scale,32,related,0.6309,Realising the benefits of 5G
+activity,22,related,0.6309,Realising the benefits of 5G
+source,57,related,0.6185,Realising the benefits of 5G
+passive,12,related,0.6132,Web3 App Comprehensive Research Book
+property,13,related,0.6099,Web3 App Comprehensive Research Book
+cumulative,31,related,0.6098,Realising the benefits of 5G
+shown,21,related,0.6098,Realising the benefits of 5G
+opportunity,133,related,0.5944,Uk industrial strategy policy paper 2026
+gain,41,related,0.5944,Realising the benefits of 5G
+billion,106,related,0.5814,Uk industrial strategy policy paper 2026
+million,105,related,0.5814,Uk industrial strategy policy paper 2026
+category,15,related,0.5604,Web3 App Comprehensive Research Book
+grant,12,related,0.5604,Web3 App Comprehensive Research Book
+also,99,related,0.5524,Uk industrial strategy policy paper 2026
+often,63,related,0.5524,Web3 App Comprehensive Research Book
+however,51,related,0.5524,Realising the benefits of 5G
+well,41,related,0.5524,Realising the benefits of 5G
+many,32,related,0.5524,Realising the benefits of 5G
+unique,28,related,0.5524,Web3 App Comprehensive Research Book
+small,24,related,0.5524,Realising the benefits of 5G
+relatively,22,related,0.5524,Realising the benefits of 5G
+typically,20,related,0.5524,Web3 App Comprehensive Research Book
+complex,20,related,0.5524,Web3 App Comprehensive Research Book
+yet,18,related,0.5524,Realising the benefits of 5G
+short,17,related,0.5524,Realising the benefits of 5G
+particularly,12,related,0.5524,Web3 App Comprehensive Research Book
+content,54,related,0.5513,Web3 App Comprehensive Research Book
+section,29,related,0.5513,Realising the benefits of 5G
+issue,22,related,0.5513,Realising the benefits of 5G
+year,98,related,0.5418,Uk industrial strategy policy paper 2026
+annual,34,related,0.5418,Realising the benefits of 5G
+stability,64,related,0.5415,Uk industrial strategy policy paper 2026
+case,312,related,0.5237,Realising the benefits of 5G
+removing,35,related,0.5224,Realising the benefits of 5G
+th,23,related,0.508,Realising the benefits of 5G
+world,89,related,0.505,Uk industrial strategy policy paper 2026
+life,47,related,0.505,Uk industrial strategy policy paper 2026
+beyond,27,related,0.505,Web3 App Comprehensive Research Book
+reality,21,related,0.505,Realising the benefits of 5G
+direct,21,not related,0.4959,Web3 App Comprehensive Research Book
+different,73,not related,0.4857,Realising the benefits of 5G
+make,71,not related,0.4857,Uk industrial strategy policy paper 2026
+create,65,not related,0.4857,Uk industrial strategy policy paper 2026
+include,47,not related,0.4857,Realising the benefits of 5G
+difference,38,not related,0.4817,Realising the benefits of 5G
+previous,36,not related,0.4817,Realising the benefits of 5G
+entertainment,39,not related,0.45,Realising the benefits of 5G
+creation,17,not related,0.4431,Web3 App Comprehensive Research Book
+ongoing,15,not related,0.4166,Web3 App Comprehensive Research Book
+invest,74,not related,0.4164,Uk industrial strategy policy paper 2026
+fund,70,not related,0.4164,Uk industrial strategy policy paper 2026
+saving,67,not related,0.4164,Realising the benefits of 5G
+making,33,not related,0.4164,Web3 App Comprehensive Research Book
+sa,24,not related,0.4108,Realising the benefits of 5G
+nonfungible,14,not related,0.4094,Web3 App Comprehensive Research Book
+presearch,13,not related,0.4094,Web3 App Comprehensive Research Book
+trustless,12,not related,0.4094,Web3 App Comprehensive Research Book
+health,26,not related,0.407,Realising the benefits of 5G
+home,39,not related,0.3835,Realising the benefits of 5G
+trilemma,14,not related,0.3815,Web3 App Comprehensive Research Book
+mechanism,56,not related,0.375,Web3 App Comprehensive Research Book
+value,77,not related,0.3747,Realising the benefits of 5G
+item,12,not related,0.3747,Web3 App Comprehensive Research Book
+strong,13,not related,0.3707,Web3 App Comprehensive Research Book
+device,87,not related,0.3449,Realising the benefits of 5G
+factor,29,not related,0.3354,Realising the benefits of 5G
+thereby,14,not related,0.3354,Web3 App Comprehensive Research Book
+designed,17,not related,0.33,Web3 App Comprehensive Research Book
+built,16,not related,0.33,Web3 App Comprehensive Research Book
+working,52,not related,0.3181,Uk industrial strategy policy paper 2026
+landscape,19,not related,0.3025,Web3 App Comprehensive Research Book
+farming,16,not related,0.3025,Web3 App Comprehensive Research Book
+digital,50,not related,0.2683,Uk industrial strategy policy paper 2026
+sensor,20,not related,0.2683,Realising the benefits of 5G
+defence,98,not related,0.2569,Uk industrial strategy policy paper 2026
+attack,34,not related,0.2569,Web3 App Comprehensive Research Book
+sensitive,12,not related,0.2511,Web3 App Comprehensive Research Book
+band,86,not related,0.2378,Realising the benefits of 5G
+take,19,not related,0.2222,Realising the benefits of 5G
+supporting,74,not related,0.2135,Uk industrial strategy policy paper 2026
+become,12,not related,0.1954,Web3 App Comprehensive Research Book
+nature,29,not related,0.1846,Web3 App Comprehensive Research Book
+immutable,13,not related,0.1846,Web3 App Comprehensive Research Book
+low,72,not related,0.1795,Realising the benefits of 5G
+high,68,not related,0.1795,Realising the benefits of 5G
+support,266,not related,0.1737,Uk industrial strategy policy paper 2026
+set,84,not related,0.1737,Uk industrial strategy policy paper 2026
+bring,21,not related,0.1737,Realising the benefits of 5G
+node,31,not related,0.1694,Web3 App Comprehensive Research Book
+could,73,not related,0.1526,Realising the benefits of 5G
+adopter,34,not related,0.1508,Realising the benefits of 5G
+coverage,68,not related,0.1484,Realising the benefits of 5G
+adopted,23,not related,0.1404,Realising the benefits of 5G
+adopt,20,not related,0.1404,Realising the benefits of 5G
+additional,66,not related,0.1353,Realising the benefits of 5G
+individual,60,not related,0.1353,Realising the benefits of 5G
+number,33,not related,0.1353,Realising the benefits of 5G
+limited,27,not related,0.1353,Realising the benefits of 5G
+given,26,not related,0.1353,Realising the benefits of 5G
+extent,24,not related,0.1353,Realising the benefits of 5G
+provided,18,not related,0.1353,Realising the benefits of 5G
+initial,17,not related,0.1353,Realising the benefits of 5G
+amount,13,not related,0.1353,Web3 App Comprehensive Research Book
+office,58,not related,0.123,Uk industrial strategy policy paper 2026
+next,19,not related,0.121,Realising the benefits of 5G
+hence,22,not related,0.1109,Realising the benefits of 5G
+emission,70,not related,0.1078,Realising the benefits of 5G
+area,118,not related,0.0891,Realising the benefits of 5G
+region,86,not related,0.0891,Uk industrial strategy policy paper 2026
+lower,65,not related,0.0891,Realising the benefits of 5G
+block,32,not related,0.0891,Web3 App Comprehensive Research Book
+fixed,19,not related,0.0891,Realising the benefits of 5G
+smaller,18,not related,0.0891,Realising the benefits of 5G
+rural,105,not related,0.0833,Realising the benefits of 5G
+local,91,not related,0.0833,Uk industrial strategy policy paper 2026
+spectrum,135,not related,0.0829,Realising the benefits of 5G
+radio,35,not related,0.0829,Realising the benefits of 5G
+function,24,not related,0.0829,Web3 App Comprehensive Research Book
+output,22,not related,0.0829,Realising the benefits of 5G
+input,21,not related,0.0829,Realising the benefits of 5G
+frequency,19,not related,0.0829,Realising the benefits of 5G
+delay,17,not related,0.0829,Realising the benefits of 5G
+human,21,not related,0.0758,Web3 App Comprehensive Research Book
+like,62,not related,0.0679,Web3 App Comprehensive Research Book
+action,16,not related,0.0609,Web3 App Comprehensive Research Book
+ie,33,not related,0.0605,Realising the benefits of 5G
+central,62,not related,0.0527,Realising the benefits of 5G
+bank,11,not related,0.0527,Web3 App Comprehensive Research Book
+work,92,not related,0.0493,Uk industrial strategy policy paper 2026
+challenge,35,not related,0.0456,Realising the benefits of 5G
+large,36,not related,0.041,Realising the benefits of 5G
+density,19,not related,0.0376,Realising the benefits of 5G
+intensity,18,not related,0.0303,Realising the benefits of 5G
+barrier,394,not related,0.0298,Realising the benefits of 5G
+resistance,15,not related,0.0298,Web3 App Comprehensive Research Book
+range,57,not related,0.0288,Realising the benefits of 5G
+ai,89,not related,0.0237,Uk industrial strategy policy paper 2026
+video,28,not related,0.0181,Realising the benefits of 5G
+wallet,127,not related,0.014,Web3 App Comprehensive Research Book
+creator,30,not related,0.0139,Web3 App Comprehensive Research Book
+part,26,not related,0.0139,Realising the benefits of 5G
+size,40,not related,0.0135,Realising the benefits of 5G
+table,56,not related,0.0126,Realising the benefits of 5G
+po,29,not related,0.0109,Web3 App Comprehensive Research Book
+layer,24,not related,0.0102,Web3 App Comprehensive Research Book
+store,21,not related,0.0078,Web3 App Comprehensive Research Book
+paper,20,not related,0.0064,Realising the benefits of 5G
+catapult,18,not related,0.0055,Realising the benefits of 5G
+mason,69,not related,0.0043,Realising the benefits of 5G
+projection,21,not related,0.0041,Realising the benefits of 5G
+university,57,not related,0.0039,Uk industrial strategy policy paper 2026
+adoption,384,not related,0.0025,Realising the benefits of 5G
+medium,61,not related,0.0008,Realising the benefits of 5G
+slicing,18,not related,0.0008,Realising the benefits of 5G
+hash,13,not related,0.0008,Web3 App Comprehensive Research Book
+pow,26,not related,0.0007,Web3 App Comprehensive Research Book
